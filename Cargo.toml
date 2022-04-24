@@ -1,11 +1,11 @@
 [package]
 name = "google-smart-home"
-version = "0.1.2"
+version = "0.1.3"
 description = "Types for Google Smart Home"
-homepage = "https://github.com/gbaranski/houseflow/tree/master/google-smart-home"
-repository = "https://github.com/gbaranski/houseflow/tree/master/google-smart-home"
+homepage = "https://github.com/gbaranski/google-smart-home-rs"
+repository = "https://github.com/gbaranski/google-smart-home-rs"
 authors = ["Grzegorz Baranski <root@gbaranski.com>"]
-keywords = ["google", "api", "smart-home", "houseflow"]
+keywords = ["google", "api", "smart-home"]
 license = "GPL-3.0-or-later"
 edition = "2021"
 resolver = "2"
